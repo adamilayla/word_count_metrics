@@ -1,4 +1,5 @@
-spark-submit\
+spak-submit
+
    --master local\ hdfs://TCP:IP/<PORT>
    --deploy-mode client\
    src/run.py $1 \ 
